@@ -1,2 +1,2 @@
-# TESTING
-unachieved / unfinished       codes / algorythms / files 
+# Codes for ImageJ and Python
+
